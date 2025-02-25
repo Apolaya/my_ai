@@ -1,0 +1,7 @@
+.mypy_cache
+electron-irtelemetry/
+ir_telemetry/
+packages/
+reader/
+telemetry_data/
+vars.txt

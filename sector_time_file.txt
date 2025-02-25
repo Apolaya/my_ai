@@ -1,0 +1,1 @@
+<bound method telemetry_reader.print_sector_times of <telemetry_reader.telemetry_reader object at 0x120442f30>>
